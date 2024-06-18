@@ -1,6 +1,6 @@
 const Ananlytics = () => {
     return ( <div>
-        analytics page
+        Analytics page
     </div>  );
 }
  
